@@ -1,0 +1,13 @@
+{
+  "name": "db1_javascript",
+  "version": "1.0.0",
+  "description": "- modules \r - generics\r - funções prototype\r - object/array\r - methods em js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
