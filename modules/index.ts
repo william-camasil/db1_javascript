@@ -1,5 +1,4 @@
-// main.js
-import { add, subtract } from "./math.mjs";
+import { add, subtract } from "./maths";
 
 const result1 = add(2, 3);
 const result2 = subtract(5, 1);
